@@ -14,18 +14,30 @@ To obtain various proxies , scrape https://free-proxy-list.net/  : free proxies 
 
 "Updated at 2021-07-05 05:12:03 UTC.
 
-117.58.245.66:40137\n
-180.183.132.131:8213\n
-34.146.77.219:3128
-195.74.72.129:37213
+117.58.245.66:40137
+
+180.183.132.131:8213  
+
+34.146.77.219:3128 
+
+195.74.72.129:37213 
+
 77.238.79.111:8080
+
 119.82.252.25:42914
+
 95.84.145.67:8080
+
 88.82.95.146:3128
+
 47.243.12.14:8888
+
 217.219.67.110:8080
+
 119.28.68.91:8080 "
 
 Use each of the proxy to access the web page that has blocked your IP and record the response of the webpage i.e 200 OK or some other response.We're trying to evaluate what percentage of these proxies work ( not all will) and the success hit ratio
 
 Do this for over 100 different proxies ( at time interval of 15 mins or more) and summarize what %age were successful and what were not , along with your observations.Upload the notebook with the details around stats and observations
+
+Submit this by Jul 6th midnight
